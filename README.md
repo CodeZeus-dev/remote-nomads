@@ -1,4 +1,4 @@
-# remote_nomads
+# REMOTE NOMADS
 
 Remote Nomads is the most relevant app in 2024. After Covid changed our lives forever, we soon realised that working from home comes with its perks. Of course, just like any other change in habit and lifestyle, it requires some getting-used-to. This is where Remote Nomads comes in, to bridge the gap between remote workers and establishing a healthy working lifestyle. 
 
