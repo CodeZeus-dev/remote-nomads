@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "283089489439",
+    "project_id": "remote-nomads",
+    "storage_bucket": "remote-nomads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283089489439:android:607aebde1c75a274594f2a",
+        "android_client_info": {
+          "package_name": "Com.aetherion.RemoteNomads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283089489439-h2vp2jfroeoi8p2rgjcph5220gc8usc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8gs0zcc9pHtC3lwgJllKZLL4wogkqKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283089489439-h2vp2jfroeoi8p2rgjcph5220gc8usc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283089489439-pqfu6bajaggfshvi7s6g9sq294iob6bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Com.aetherion.RemoteNomads"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283089489439:android:8572ddc7d9443545594f2a",
+        "android_client_info": {
+          "package_name": "com.aetherion.RemoteNomads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283089489439-h2vp2jfroeoi8p2rgjcph5220gc8usc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC8gs0zcc9pHtC3lwgJllKZLL4wogkqKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283089489439-h2vp2jfroeoi8p2rgjcph5220gc8usc4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "283089489439-pqfu6bajaggfshvi7s6g9sq294iob6bm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Com.aetherion.RemoteNomads"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
